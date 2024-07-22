@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.cara-sello.com/images/posts/politica/anarquia-internacional.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.cara-sello.com/images/posts/politica/anarquia-internacional.jpg">
+ <img alt="Anarquy" src="https://www.cara-sello.com/images/posts/politica/anarquia-internacional.jpg">
+</picture>
 
 <!--
 **Kevvv1611/kevvv1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
